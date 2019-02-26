@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1551224021 source:c:\users\i.tactuk\documents\codeblocks\scraper\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
