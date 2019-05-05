@@ -22,7 +22,7 @@ class PlantillaPrueba(PruebaAbstracta):
             b"La suma es: 4\r\n"
         )
 
-    def test_negativa(yo):
+    def test_suma_negativa(yo):
         yo.entro(
             b"-1\n"
             b"-4\n"
@@ -32,7 +32,7 @@ class PlantillaPrueba(PruebaAbstracta):
             b"La suma es: -5\r\n"
         )
 
-    def test_pos_neg(yo):
+    def test_suma_pos_neg(yo):
         yo.entro(
             b"-1\n"
             b"4\n"
