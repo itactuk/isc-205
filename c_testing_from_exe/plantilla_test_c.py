@@ -8,7 +8,7 @@ class PlantillaPrueba(PruebaAbstracta):
 
     def configVar(self):
         # CodeBlocks crea el ejecutable en {RutaFolderProjecto}\bin\Debug\{NombreProyecto}.exe
-        self.ejecutable = r"C:\Users\Ivan's PC\PycharmProjects\isc-205_este_si\suma2\bin\Debug\suma2.exe"
+        self.ejecutable = r"..\suma2\bin\Debug\suma2.exe"
 
     # En yo.veo, solo pon lo que el programa escribe en stdout; NO incluir lo digitado por el usuario en stdin
     def test_A(yo):
