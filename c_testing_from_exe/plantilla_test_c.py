@@ -11,11 +11,15 @@ class PlantillaPrueba(PruebaAbstracta):
         self.ejecutable = r"..\suma2\bin\Debug\suma2.exe"
 
     # En yo.veo, solo pon lo que el programa escribe en stdout; NO incluir lo digitado por el usuario en stdin
-    def test_A(yo):
+    # todas las pruebas tienen que comenzar con test
+    def test_suma_positiva(yo):
         yo.entro(b"1\r\n3\r\n")
         yo.veo(b'\x82Digita 2 #s: La suma es: 4\r\n')
 
-    def test_B(yo):
-        yo.entro(b"1\n4\n")
-        yo.veo(b'\x82Digita 2 #s: La suma es: 5\r\n')
+    def test_negativa(yo):
+        yo.entro(b"-1\n-4\n")
+        yo.veo(b'\x82Digita 2 #s: La suma es: -5\r\n')
 
+    def test_pos_neg(yo):
+        yo.entro(b"-1\n4\n")
+        yo.veo(b'\x82Digita 2 #s: La suma es: 3\r\n')
