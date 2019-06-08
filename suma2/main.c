@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include "mis_acciones.h"
 
 int main()
 {
@@ -8,5 +9,6 @@ int main()
     scanf("%d", &x);
     scanf("%d", &y);
     printf("La suma es: %d\n", x + y);
+    mi_accion();
     return 0;
 }

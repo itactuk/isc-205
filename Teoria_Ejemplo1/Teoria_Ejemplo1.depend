@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1558988073 source:c:\users\ivan's pc\pycharmprojects\isc-205_este_si\teoria_ejemplo1\main.c
+	<stdio.h>
+
+1558470745 source:c:\users\ivan's pc\pycharmprojects\isc-205_este_si\teoria_ejemplo1\mislibrerias.c
+	"misllibrerias.h"
+
+1558466614 c:\users\ivan's pc\pycharmprojects\isc-205_este_si\teoria_ejemplo1\misllibrerias.h
+

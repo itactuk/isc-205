@@ -8,3 +8,29 @@
 	<stdio.h>
 	<stdlib.h>
 
+1559732611 source:c:\tmp\isc-205_este_si\ejemplo_pruebas_funciones\misfunciones.c
+	"misfunciones.h"
+
+1559732611 c:\tmp\isc-205_este_si\ejemplo_pruebas_funciones\misfunciones.h
+
+1559732611 source:c:\tmp\isc-205_este_si\minunit_ejemplo_pruebas_funciones\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1559732611 source:c:\tmp\isc-205_este_si\minunit_ejemplo_pruebas_funciones\minunit_example.c
+	"minunit.h"
+	"../ejemplo_pruebas_funciones/misfunciones.h"
+
+1559732611 c:\tmp\isc-205_este_si\minunit_ejemplo_pruebas_funciones\minunit.h
+	<Windows.h>
+	<unistd.h>
+	<time.h>
+	<sys/time.h>
+	<sys/resource.h>
+	<sys/times.h>
+	<string.h>
+	<mach/mach.h>
+	<mach/mach_time.h>
+	<stdio.h>
+	<math.h>
+

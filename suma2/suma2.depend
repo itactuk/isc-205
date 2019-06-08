@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1557264126 source:c:\users\ivan's pc\pycharmprojects\isc-205_este_si\suma2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"mis_acciones.h"
+
+1557264152 source:c:\users\ivan's pc\pycharmprojects\isc-205_este_si\suma2\mis_acciones.c
+
+1557263998 c:\users\ivan's pc\pycharmprojects\isc-205_este_si\suma2\mis_acciones.h
+
