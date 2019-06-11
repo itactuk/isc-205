@@ -14,7 +14,7 @@ int main()
 void invierte(char s[]){
     int n = cant_chars(s);
     int tmp;
-    for(int i=0; i<n; i++){
+    for(int i=0; i<n/2; i++){
         int i_final = n-1-i;
         tmp = s[i];
         s[i] = s[i_final];
