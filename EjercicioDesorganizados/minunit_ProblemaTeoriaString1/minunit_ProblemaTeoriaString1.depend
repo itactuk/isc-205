@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1559767519 source:c:\users\i.tactuk\documents\codeblocksa\problemateoriastring\comparacion_string.c
+	"../minunit_ProblemaTeoriaString/minunit.h"
+
+1559767373 c:\users\i.tactuk\documents\codeblocksa\minunit_problemateoriastring\minunit.h
+	<Windows.h>
+	<unistd.h>
+	<time.h>
+	<sys/time.h>
+	<sys/resource.h>
+	<sys/times.h>
+	<string.h>
+	<mach/mach.h>
+	<mach/mach_time.h>
+	<stdio.h>
+	<math.h>
+
