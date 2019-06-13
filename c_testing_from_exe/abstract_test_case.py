@@ -1,6 +1,7 @@
 import unittest
 import subprocess
-
+import os
+from pathlib import Path
 
 class PruebaAbstracta(unittest.TestCase):
 
@@ -10,7 +11,13 @@ class PruebaAbstracta(unittest.TestCase):
         super().setUp()
 
     def configVar(self):
-        self.ejecutable = r"C:\Users\Ivan's PC\Documents\GitHub\MiPrimerRepositrioBorrar\q\bin\Desbug\q.exe"
+        self.ejecutable = "..\\..\\cmake-build-debug\\" + self.get_main_exe() + ".exe"
+
+    def get_main_exe(self):
+        raiz = os.getcwd()
+        for p in Path(raiz).glob("main*"):
+            return p.name[:-2]
+        return ""
 
     def tearDown(self):
         self.p.stdin.close()
