@@ -10,7 +10,8 @@ int conv(int x){
         return x;
     }
     int n= cuenta_digitos(x);
-    int resta = (x/pow(10,n-1)) * pow(10,n-1);
+    int resta = (x/pow(10,n-1));
+    resta *= pow(10,n-1);
     int r = pow(2,n-1) + conv( x - resta );
     return r;
 }
