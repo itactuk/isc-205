@@ -14,5 +14,6 @@ typedef struct perros{
 } mi_perro;
 
 int busqueda_perro(int e, mi_perro arr[], int n);
-int ordenamiento_perro(int e, mi_perro arr[], int n);
+int ordenamiento_perro(mi_perro * vector, int n);
+void intercambiar(mi_perro * x, mi_perro *y);
 #endif //ISC205_BUSQUEDA_H

@@ -19,4 +19,10 @@ int main(){
     int j = busqueda_binaria(7,a,n);
     printf("%d\n",i);
     printf("%d\n",j);
+
+    mi_perro puky= {"puky","caniche", 3, 'M'};
+    mi_perro jacob= {"jacob","chihuahua", 10, 'M'};
+    mi_perro perros[2]={puky, jacob};
+    ordenamiento_perro(perros, 2);
+
 }

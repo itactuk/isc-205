@@ -49,6 +49,19 @@ int busqueda_perro(int e, mi_perro arr[], int n){
     return -1;
 }
 
-int ordenamiento_perro(int e, mi_perro arr[], int n){
+int ordenamiento_perro(mi_perro * vector, int n){
+    for (int i = 0; i < n; ++i) {
+        for (int j = 0; j < n; ++j) {
+            if (vector[j].edad>vector[j+1].edad){
+                intercambiar(&vector[j], &vector[j+1]);
+            }
+        }
+    }
+}
 
+void intercambiar(mi_perro * x, mi_perro *y){
+    mi_perro aux;
+    aux = *x;
+    *x = *y;
+    *y = aux;
 }
