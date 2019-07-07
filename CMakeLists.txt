@@ -9,5 +9,21 @@ add_executable(main_conv_bin_dec lab071/conv_bin_dec/main_conv_bin_dec.c lab071/
 
 add_executable(main_productopunto lab071/productopunto/main_productopunto.c lab071/productopunto/productopunto.c lab071/productopunto/productopunto.h)
 
-add_executable(minunit lab071/conv_bin_dec/minunit.c)
+add_executable(minunit lab071/conv_bin_dec/minunit.c lab071/conv_bin_dec/conversion.c lab071/conv_bin_dec/conversion.h)
 add_executable(main_conv_bin_dec_arreglo lab072/conv_bin_dec_arreglo/main_conv_bin_dec_arreglo.c lab072/conv_bin_dec_arreglo/conv_bin_dec_con_arreglo.c lab072/conv_bin_dec_arreglo/conv_bin_dec_con_arreglo.h)
+add_executable(main_busqueda teoria/busqueda/main_busqueda.c teoria/busqueda/busqueda.c teoria/busqueda/busqueda.h)
+add_executable(main_ehJC ejJC/main_ehJC.c ejJC/miLib.h.c ejJC/miLib.h.h)
+add_executable(minunit_ehJC ejJC/minunit_ehJC.c ejJC/miLib.h.c ejJC/miLib.h.h)
+add_executable(main_suma_pares lab071/suma_pares/main_suma_pares.c lab071/suma_pares/funciones_recursivas.c lab071/suma_pares/funciones_recursivas.h)
+add_executable(minunit_suma_pares lab071/suma_pares/minunit_suma_pares.c lab071/suma_pares/funciones_recursivas.c lab071/suma_pares/funciones_recursivas.h)
+add_executable(main_proyecto_prueba proyecto_prueba/main_proyecto_prueba.c proyecto_prueba/mis_librerias.c proyecto_prueba/mis_librerias.h)
+add_executable(minunit_proyecto_prueba proyecto_prueba/minunit_proyecto_prueba.c proyecto_prueba/mis_librerias.c proyecto_prueba/mis_librerias.h)
+
+add_executable(buscamina_main teoria/tarea1/buscamina_main.c)
+add_executable(minunit_leveshtein teoria/tarea1/minunit_leveshtein.c teoria/tarea1/leveshtein.c teoria/tarea1/leveshtein.h)
+add_executable(P1 lab071/examen/P1.c)
+add_executable(P3 lab071/examen/P3.c)
+add_executable(clasemiercoles teoria/damarys/clasemiercoles.c)
+add_executable(2P3 lab072/examen/2P3.c)
+add_executable(2P2 lab072/examen/2P2.c)
+add_executable(2P1 lab072/examen/2P1.c)

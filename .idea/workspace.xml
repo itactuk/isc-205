@@ -1,91 +1,273 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="isc205" targetName="minunit_proyecto_prueba" />
+      <config projectName="isc205" targetName="clasemiercoles" />
+      <config projectName="isc205" targetName="main_productopunto" />
+      <config projectName="isc205" targetName="buscamina_main" />
+      <config projectName="isc205" targetName="main_conv_bin_dec" />
+      <config projectName="isc205" targetName="minunit_ehJC" />
+      <config projectName="isc205" targetName="P3" />
+      <config projectName="isc205" targetName="P1" />
+      <config projectName="isc205" targetName="main_ehJC" />
+      <config projectName="isc205" targetName="main_suma_pares" />
+      <config projectName="isc205" targetName="minunit_leveshtein" />
+      <config projectName="isc205" targetName="minunit" />
+      <config projectName="isc205" targetName="main_conv_bin_dec_arreglo" />
+      <config projectName="isc205" targetName="2P3" />
+      <config projectName="isc205" targetName="2P2" />
+      <config projectName="isc205" targetName="2P1" />
+      <config projectName="isc205" targetName="main_busqueda" />
+      <config projectName="isc205" targetName="minunit_suma_pares" />
+      <config projectName="isc205" targetName="main_proyecto_prueba" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="252f81e1-df84-43b1-9345-bb8c3354cf39" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/minunit_ejemplo_pruebas_funciones/minunit_ejemplo_pruebas_funciones.depend" beforeDir="false" afterPath="$PROJECT_DIR$/minunit_ejemplo_pruebas_funciones/minunit_ejemplo_pruebas_funciones.depend" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/suma2/bin/Debug/suma2.exe" beforeDir="false" afterPath="$PROJECT_DIR$/suma2/bin/Debug/suma2.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/suma2/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/suma2/main.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/suma2/obj/Debug/main.o" beforeDir="false" afterPath="$PROJECT_DIR$/suma2/obj/Debug/main.o" afterDir="false" />
+    <list default="true" id="252f81e1-df84-43b1-9345-bb8c3354cf39" name="Default Changelist" comment="ejempl">
+      <change afterPath="$PROJECT_DIR$/ejJC/main_ehJC.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ejJC/miLib.h.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ejJC/miLib.h.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ejJC/minunit_ehJC.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab071/examen/P1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab071/examen/P2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab071/examen/P3.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab072/examen/2P1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab072/examen/2P2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab072/examen/2P3.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proyecto_prueba/main_proyecto_prueba.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proyecto_prueba/minunit_proyecto_prueba.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proyecto_prueba/mis_librerias.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proyecto_prueba/mis_librerias.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teoria/tarea1/leveshtein.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teoria/tarea1/leveshtein.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teoria/tarea1/minunit_leveshtein.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/isc-205_este_si.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/isc-205_este_si.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
     </list>
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <ignored path="$PROJECT_DIR$/lab071/conv_bin_dec/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/c_testing_from_exe/plantilla_test_c.py">
+        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="277">
-              <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+            <state relative-caret-position="540">
+              <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lab072/examen/2P1.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+              <folding>
+                <element signature="e#44#62#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lab072/examen/2P2.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/suma2/mis_acciones.c">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/lab072/examen/2P3.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="37" column="13" lean-forward="true" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CMakeLists.txt" />
+        <option value="c minunit" />
+        <option value="c main file" />
+        <option value="C Source File (Console)" />
+        <option value="Copy of C Source File" />
+        <option value="minunit" />
+        <option value="Python Script" />
+      </list>
+    </option>
+    <option name="SCHEME" value="Project" />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>main</find>
+      <find>test_NombrePrueba</find>
+      <find>click</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>test_prueba22</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\Users\Ivan's PC\CLionProjects\isc-205\lab071\conv_bin_dec</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GithubDefaultAccount">
-    <option name="defaultAccountId" value="d9f23e3d-72a3-412b-820d-0c993d9abb71" />
-  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/lab071/productopunto/productopunto.h" />
+        <option value="$PROJECT_DIR$/lab071/productopunto/productopunto.c" />
+        <option value="$PROJECT_DIR$/lab071/productopunto/main.c" />
+        <option value="$PROJECT_DIR$/lab071/conv_bin_dec/conversion.h" />
+        <option value="$PROJECT_DIR$/lab071/conv_bin_dec/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/lab071/conv_bin_dec/main.c" />
         <option value="$PROJECT_DIR$/c_testing_from_exe/plantilla_test_c.py" />
+        <option value="$PROJECT_DIR$/lab071/conv_bin_dec/test_conv_bin_dec.py" />
+        <option value="$PROJECT_DIR$/c_testing_from_exe/abstract_test_case.py" />
+        <option value="$PROJECT_DIR$/c_testing_from_exe/plantilla_simplificada_clion.py" />
+        <option value="$PROJECT_DIR$/lab071/conv_bin_dec/test/minunit.c" />
+        <option value="$PROJECT_DIR$/lab071/minunit.c" />
+        <option value="$PROJECT_DIR$/lab071/conv_bin_dec/main_conv_bin_dec.c" />
+        <option value="$PROJECT_DIR$/lab071/conv_bin_dec/conversion.c" />
+        <option value="$PROJECT_DIR$/lab072/conv_bin_dec_arreglo/conv_bin_dec_con_arreglo.h" />
+        <option value="$PROJECT_DIR$/lab072/conv_bin_dec_arreglo/main_conv_bin_dec_arreglo.c" />
+        <option value="$PROJECT_DIR$/lab072/conv_bin_dec_arreglo/conv_bin_dec_con_arreglo.c" />
+        <option value="$PROJECT_DIR$/teoría/busqueda/busqueda.h" />
+        <option value="$PROJECT_DIR$/teoría/busqueda/busqueda.c" />
+        <option value="$PROJECT_DIR$/teoría/busqueda/main_busqueda.c" />
+        <option value="$PROJECT_DIR$/lab071/prueba/min_unit_ej.c" />
+        <option value="$PROJECT_DIR$/ejJC/miLib.h.h" />
+        <option value="$PROJECT_DIR$/lab071/suma_pares/main_suma_pares.c" />
+        <option value="$PROJECT_DIR$/lab071/suma_pares/funciones_recursivas.h" />
+        <option value="$PROJECT_DIR$/lab071/suma_pares/funciones_recursivas.c" />
+        <option value="$PROJECT_DIR$/lab071/suma_pares/minunit_suma_pares.c" />
+        <option value="$PROJECT_DIR$/ejJC/miLib.h.c" />
+        <option value="$PROJECT_DIR$/ejJC/minunit_ehJC.c" />
+        <option value="$PROJECT_DIR$/lab071/conv_bin_dec/minunit.c" />
+        <option value="$PROJECT_DIR$/ejJC/main_ehJC.c" />
+        <option value="$PROJECT_DIR$/teoria/tarea1/leveshtein.h" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/teoria/tarea1/minunit_leveshtein.c" />
+        <option value="$PROJECT_DIR$/teoria/tarea1/leveshtein.c" />
+        <option value="$PROJECT_DIR$/teoria/tarea1/buscamina_main.c" />
+        <option value="$PROJECT_DIR$/teoria/busqueda/busqueda.c" />
+        <option value="$PROJECT_DIR$/teoria/busqueda/main_busqueda.c" />
+        <option value="$PROJECT_DIR$/teoria/busqueda/busqueda.h" />
+        <option value="$PROJECT_DIR$/lab071/examen/P1.py" />
+        <option value="$PROJECT_DIR$/lab071/examen/P1.c" />
+        <option value="$PROJECT_DIR$/lab071/examen/P2.c" />
+        <option value="$PROJECT_DIR$/lab071/examen/P3.c" />
+        <option value="$PROJECT_DIR$/teoria/damarys/clasemiercoles.c" />
+        <option value="$PROJECT_DIR$/lab072/examen/2P1.c" />
+        <option value="$PROJECT_DIR$/lab072/examen/2P2.c" />
+        <option value="$PROJECT_DIR$/lab072/examen/2P3.c" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-7" />
+    <option name="x" value="676" />
     <option name="width" value="697" />
     <option name="height" value="735" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Course" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="isc-205_este_si" type="b2602c69:ProjectViewProjectNode" />
-              <item name="isc-205_este_si" type="462c0819:PsiDirectoryNode" />
+              <item name="isc205" type="b2602c69:ProjectViewProjectNode" />
+              <item name="isc-205" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="isc-205_este_si" type="b2602c69:ProjectViewProjectNode" />
-              <item name="isc-205_este_si" type="462c0819:PsiDirectoryNode" />
-              <item name="suma2" type="462c0819:PsiDirectoryNode" />
+              <item name="isc205" type="b2602c69:ProjectViewProjectNode" />
+              <item name="isc-205" type="462c0819:PsiDirectoryNode" />
+              <item name="includes" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="isc-205_este_si" type="b2602c69:ProjectViewProjectNode" />
-              <item name="isc-205_este_si" type="462c0819:PsiDirectoryNode" />
-              <item name="Teoria_Ejemplo1" type="462c0819:PsiDirectoryNode" />
+              <item name="isc205" type="b2602c69:ProjectViewProjectNode" />
+              <item name="isc-205" type="462c0819:PsiDirectoryNode" />
+              <item name="lab071" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="isc205" type="b2602c69:ProjectViewProjectNode" />
+              <item name="isc-205" type="462c0819:PsiDirectoryNode" />
+              <item name="lab072" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="isc205" type="b2602c69:ProjectViewProjectNode" />
+              <item name="isc-205" type="462c0819:PsiDirectoryNode" />
+              <item name="lab072" type="462c0819:PsiDirectoryNode" />
+              <item name="examen" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="isc205" type="b2602c69:ProjectViewProjectNode" />
+              <item name="isc-205" type="462c0819:PsiDirectoryNode" />
+              <item name="teoria" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="isc205" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Course" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/c_testing_from_exe" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Ivan's PC\CLionProjects\isc-205\c_testing_from_exe" />
+      <recent name="C:\Users\Ivan's PC\CLionProjects\isc-205\lab071" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Ivan's PC\PycharmProjects\isc-205_este_si\Pycharm" />
+      <recent name="C:\Users\Ivan's PC\CLionProjects\isc-205\lab071\conv_bin_dec" />
+      <recent name="C:\Users\Ivan's PC\CLionProjects\isc-205\lab071" />
+      <recent name="C:\Users\Ivan's PC\CLionProjects\isc-205\lab071\conv_bin_dec\test" />
+      <recent name="C:\Users\Ivan's PC\CLionProjects\isc-205\includes" />
+      <recent name="C:\Users\Ivan's PC\CLionProjects\isc-205" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -100,8 +282,103 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests for plantilla_test_c.PlantillaPrueba">
-    <configuration name="plantilla_test_c" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="CMake Application.clasemiercoles">
+    <configuration name="2P1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="isc205" TARGET_NAME="2P1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="isc205" RUN_TARGET_NAME="2P1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="2P2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="isc205" TARGET_NAME="2P2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="isc205" RUN_TARGET_NAME="2P2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="2P3" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="isc205" TARGET_NAME="2P3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="isc205" RUN_TARGET_NAME="2P3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="isc205" TARGET_NAME="P1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="isc205" RUN_TARGET_NAME="P1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P3" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="isc205" TARGET_NAME="P3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="isc205" RUN_TARGET_NAME="P3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="buscamina_main" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="isc205" TARGET_NAME="buscamina_main" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="isc205" RUN_TARGET_NAME="buscamina_main">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="clasemiercoles" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="isc205" TARGET_NAME="clasemiercoles" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="isc205" RUN_TARGET_NAME="clasemiercoles">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main_busqueda" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="isc205" TARGET_NAME="main_busqueda" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="isc205" RUN_TARGET_NAME="main_busqueda">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main_conv_bin_dec" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="isc205" TARGET_NAME="main_conv_bin_dec" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="isc205" RUN_TARGET_NAME="main_conv_bin_dec">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main_conv_bin_dec_arreglo" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="isc205" TARGET_NAME="main_conv_bin_dec_arreglo" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="isc205" RUN_TARGET_NAME="main_conv_bin_dec_arreglo">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main_ehJC" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="isc205" TARGET_NAME="main_ehJC" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="isc205" RUN_TARGET_NAME="main_ehJC">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main_productopunto" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="isc205" TARGET_NAME="main_productopunto" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="isc205" RUN_TARGET_NAME="main_productopunto">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main_proyecto_prueba" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="isc205" TARGET_NAME="main_proyecto_prueba" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="isc205" RUN_TARGET_NAME="main_proyecto_prueba">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main_suma_pares" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="isc205" TARGET_NAME="main_suma_pares" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="isc205" RUN_TARGET_NAME="main_suma_pares">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="minunit" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="isc205" TARGET_NAME="minunit" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="isc205" RUN_TARGET_NAME="minunit">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="minunit_ehJC" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="isc205" TARGET_NAME="minunit_ehJC" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="isc205" RUN_TARGET_NAME="minunit_ehJC">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="minunit_leveshtein" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="isc205" TARGET_NAME="minunit_leveshtein" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="isc205" RUN_TARGET_NAME="minunit_leveshtein">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="minunit_proyecto_prueba" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="isc205" TARGET_NAME="minunit_proyecto_prueba" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="isc205" RUN_TARGET_NAME="minunit_proyecto_prueba">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="minunit_suma_pares" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="isc205" TARGET_NAME="minunit_suma_pares" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="isc205" RUN_TARGET_NAME="minunit_suma_pares">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="plantilla_simplificada_clion" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="isc-205_este_si" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -109,11 +386,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Pycharm/c_testing_from_exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/c_testing_from_exe" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pycharm/c_testing_from_exe/plantilla_test_c.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/c_testing_from_exe/plantilla_simplificada_clion.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_conv_bin_dec" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="isc-205_este_si" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Ivan's PC\CLionProjects\isc-205\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lab071/conv_bin_dec" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab071/conv_bin_dec/test_conv_bin_dec.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -136,110 +434,272 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for plantilla_test_c.PlantillaPrueba.test_A" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for test_conv_bin_dec.PlantillaPrueba.test_suma_positiva" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="isc-205_este_si" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/c_testing_from_exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lab071/conv_bin_dec" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;plantilla_test_c.PlantillaPrueba.test_A&quot;" />
+      <option name="_new_target" value="&quot;test_conv_bin_dec.PlantillaPrueba.test_suma_positiva&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for plantilla_test_c.PlantillaPrueba.test_suma_positiva" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests in test_conv_bin_dec.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="isc-205_este_si" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/c_testing_from_exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lab071/conv_bin_dec" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;plantilla_test_c.PlantillaPrueba.test_suma_positiva&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Unittests in plantilla_test_c.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <module name="isc-205_este_si" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/c_testing_from_exe" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;C:/../Ivan\u0027s PC/PycharmProjects/isc-205_este_si/c_testing_from_exe/plantilla_test_c.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/../../../Ivan\u0027s PC/CLionProjects/isc-205/lab071/conv_bin_dec/test_conv_bin_dec.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="CMake Application.2P1" />
+      <item itemvalue="CMake Application.2P2" />
+      <item itemvalue="CMake Application.2P3" />
+      <item itemvalue="CMake Application.buscamina_main" />
+      <item itemvalue="CMake Application.clasemiercoles" />
+      <item itemvalue="CMake Application.main_busqueda" />
+      <item itemvalue="CMake Application.main_conv_bin_dec" />
+      <item itemvalue="CMake Application.main_conv_bin_dec_arreglo" />
+      <item itemvalue="CMake Application.main_ehJC" />
+      <item itemvalue="CMake Application.main_productopunto" />
+      <item itemvalue="CMake Application.main_proyecto_prueba" />
+      <item itemvalue="CMake Application.main_suma_pares" />
+      <item itemvalue="CMake Application.minunit" />
+      <item itemvalue="CMake Application.minunit_ehJC" />
+      <item itemvalue="CMake Application.minunit_leveshtein" />
+      <item itemvalue="CMake Application.minunit_proyecto_prueba" />
+      <item itemvalue="CMake Application.minunit_suma_pares" />
+      <item itemvalue="CMake Application.P1" />
+      <item itemvalue="CMake Application.P3" />
+      <item itemvalue="Python.test_conv_bin_dec" />
+      <item itemvalue="Python.plantilla_simplificada_clion" />
+      <item itemvalue="Python tests.Unittests for plantilla_test_c.PlantillaPrueba" />
+      <item itemvalue="Python tests.Unittests for test_conv_bin_dec.PlantillaPrueba.test_suma_positiva" />
+      <item itemvalue="Python tests.Unittests in test_conv_bin_dec.py" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Unittests in test_conv_bin_dec.py" />
+        <item itemvalue="Python.test_conv_bin_dec" />
+        <item itemvalue="Python.plantilla_simplificada_clion" />
+        <item itemvalue="Python tests.Unittests for test_conv_bin_dec.PlantillaPrueba.test_suma_positiva" />
         <item itemvalue="Python tests.Unittests for plantilla_test_c.PlantillaPrueba" />
-        <item itemvalue="Python tests.Unittests for plantilla_test_c.PlantillaPrueba.test_suma_positiva" />
-        <item itemvalue="Python tests.Unittests for plantilla_test_c.PlantillaPrueba.test_A" />
-        <item itemvalue="Python tests.Unittests in plantilla_test_c.py" />
-        <item itemvalue="Python.plantilla_test_c" />
       </list>
     </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration>C:\Users\Ivan's PC\AppData\Roaming\Subversion</configuration>
   </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="252f81e1-df84-43b1-9345-bb8c3354cf39" name="Default Changelist" comment="" />
+      <created>1560371937389</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560371937389</updated>
+      <workItem from="1560372043763" duration="5857000" />
+      <workItem from="1560437657420" duration="85000" />
+      <workItem from="1560437887443" duration="7000" />
+      <workItem from="1560437956683" duration="70000" />
+      <workItem from="1560438065609" duration="17241000" />
+      <workItem from="1560595769267" duration="540000" />
+      <workItem from="1560596605416" duration="624000" />
+      <workItem from="1560597372660" duration="7822000" />
+      <workItem from="1560732478549" duration="1445000" />
+      <workItem from="1560814379997" duration="394000" />
+      <workItem from="1560968850739" duration="6516000" />
+      <workItem from="1561041480876" duration="8944000" />
+      <workItem from="1561171821219" duration="556000" />
+      <workItem from="1561295195314" duration="8818000" />
+      <workItem from="1561638322216" duration="651000" />
+      <workItem from="1561676029043" duration="4564000" />
+      <workItem from="1561827689283" duration="654000" />
+      <workItem from="1561921928324" duration="12014000" />
+      <workItem from="1562510559874" duration="1094000" />
+    </task>
+    <task id="LOCAL-00001" summary="agrega ejemplo producto punto &#10;agrega clion cmakelists">
+      <created>1560373893120</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1560373893120</updated>
+    </task>
+    <task id="LOCAL-00002" summary="agrega ejemplo conversion">
+      <created>1560376537171</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1560376537171</updated>
+    </task>
+    <task id="LOCAL-00003" summary="arregla error de conversion de tipo">
+      <created>1560438817765</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1560438817765</updated>
+    </task>
+    <task id="LOCAL-00004" summary="moví archivos a otra carpeta para empezar a dividir ejercicios por grupo">
+      <created>1560439177400</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1560439177400</updated>
+    </task>
+    <task id="LOCAL-00005" summary="renombra archivos main para permitir la creacion de más de un ejecutable">
+      <created>1560439456629</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1560439456629</updated>
+    </task>
+    <task id="LOCAL-00006" summary="simplifica testing en clion">
+      <created>1560441035958</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1560441035958</updated>
+    </task>
+    <task id="LOCAL-00007" summary="agrega ejemplo testing">
+      <created>1560441198391</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1560441198391</updated>
+    </task>
+    <task id="LOCAL-00008" summary="quita comentario y remueve ConfigVar">
+      <created>1560441437423</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1560441437423</updated>
+    </task>
+    <task id="LOCAL-00009" summary="agrega ejemplo min_unit_clion">
+      <created>1560444806394</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1560444806394</updated>
+    </task>
+    <task id="LOCAL-00010" summary="agrega conversio bin a dec con arreglos">
+      <created>1560460518774</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1560460518774</updated>
+    </task>
+    <task id="LOCAL-00011" summary="agrega ejemplos recursividad">
+      <created>1560978833425</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1560978833425</updated>
+    </task>
+    <task id="LOCAL-00012" summary="buscaminas">
+      <created>1561507530027</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1561507530042</updated>
+    </task>
+    <task id="LOCAL-00013" summary="busqueda">
+      <created>1561507551915</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1561507551916</updated>
+    </task>
+    <task id="LOCAL-00014" summary="agrega ejemplo busqueda con estructuras y punteros(intercambiar)">
+      <created>1561681794212</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1561681794212</updated>
+    </task>
+    <task id="LOCAL-00015" summary="add ejercicios grupo damarys">
+      <created>1562197175884</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1562197175884</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
+    <servers />
+  </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_in_plantilla_test_c_py - 2019.05.04 at 21h 32m 11s.xml">
-      <configuration name="Unittests in plantilla_test_c.py" configurationId="tests" />
+    <history-entry file="Unittests_for_test_conv_bin_dec_PlantillaPrueba_test_suma_positiva - 2019.06.13 at 11h 43m 02s.xml">
+      <configuration name="Unittests for test_conv_bin_dec.PlantillaPrueba.test_suma_positiva" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_plantilla_test_c_PlantillaPrueba_test_A - 2019.05.04 at 21h 37m 04s.xml">
-      <configuration name="Unittests for plantilla_test_c.PlantillaPrueba.test_A" configurationId="tests" />
+    <history-entry file="Unittests_for_test_conv_bin_dec_PlantillaPrueba_test_suma_positiva - 2019.06.13 at 11h 43m 51s.xml">
+      <configuration name="Unittests for test_conv_bin_dec.PlantillaPrueba.test_suma_positiva" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_plantilla_test_c_PlantillaPrueba - 2019.05.04 at 21h 38m 58s.xml">
-      <configuration name="Unittests for plantilla_test_c.PlantillaPrueba" configurationId="tests" />
+    <history-entry file="Unittests_for_test_conv_bin_dec_PlantillaPrueba_test_suma_positiva - 2019.06.13 at 11h 44m 05s.xml">
+      <configuration name="Unittests for test_conv_bin_dec.PlantillaPrueba.test_suma_positiva" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_plantilla_test_c_PlantillaPrueba - 2019.05.04 at 21h 40m 10s.xml">
-      <configuration name="Unittests for plantilla_test_c.PlantillaPrueba" configurationId="tests" />
+    <history-entry file="Unittests_for_test_conv_bin_dec_PlantillaPrueba_test_suma_positiva - 2019.06.13 at 11h 46m 12s.xml">
+      <configuration name="Unittests for test_conv_bin_dec.PlantillaPrueba.test_suma_positiva" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_plantilla_test_c_PlantillaPrueba - 2019.05.04 at 21h 41m 06s.xml">
-      <configuration name="Unittests for plantilla_test_c.PlantillaPrueba" configurationId="tests" />
+    <history-entry file="Unittests_for_test_conv_bin_dec_PlantillaPrueba_test_suma_positiva - 2019.06.13 at 11h 47m 09s.xml">
+      <configuration name="Unittests for test_conv_bin_dec.PlantillaPrueba.test_suma_positiva" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_plantilla_test_c_PlantillaPrueba - 2019.05.04 at 22h 31m 21s.xml">
-      <configuration name="Unittests for plantilla_test_c.PlantillaPrueba" configurationId="tests" />
+    <history-entry file="Unittests_for_test_conv_bin_dec_PlantillaPrueba_test_suma_positiva - 2019.06.13 at 11h 48m 31s.xml">
+      <configuration name="Unittests for test_conv_bin_dec.PlantillaPrueba.test_suma_positiva" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_plantilla_test_c_PlantillaPrueba - 2019.05.04 at 22h 32m 04s.xml">
-      <configuration name="Unittests for plantilla_test_c.PlantillaPrueba" configurationId="tests" />
+    <history-entry file="Unittests_for_test_conv_bin_dec_PlantillaPrueba_test_suma_positiva - 2019.06.13 at 11h 49m 26s.xml">
+      <configuration name="Unittests for test_conv_bin_dec.PlantillaPrueba.test_suma_positiva" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_plantilla_test_c_PlantillaPrueba_test_suma_positiva - 2019.05.05 at 09h 50m 27s.xml">
-      <configuration name="Unittests for plantilla_test_c.PlantillaPrueba.test_suma_positiva" configurationId="tests" />
+    <history-entry file="Unittests_in_test_conv_bin_dec_py - 2019.06.15 at 09h 53m 18s.xml">
+      <configuration name="Unittests in test_conv_bin_dec.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_plantilla_test_c_PlantillaPrueba - 2019.05.05 at 10h 04m 35s.xml">
-      <configuration name="Unittests for plantilla_test_c.PlantillaPrueba" configurationId="tests" />
+    <history-entry file="Unittests_in_test_conv_bin_dec_py - 2019.06.19 at 14h 34m 35s.xml">
+      <configuration name="Unittests in test_conv_bin_dec.py" configurationId="tests" />
     </history-entry>
+    <history-entry file="Unittests_in_test_conv_bin_dec_py - 2019.06.19 at 17h 34m 44s.xml">
+      <configuration name="Unittests in test_conv_bin_dec.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="77896000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
-      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.5098336" />
+      <window_info id="Structure" order="1" weight="0.24962178" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32993197" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.30441898" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.38538206" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" visible="true" weight="0.32482994" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32405892" />
       <window_info anchor="bottom" id="Educational.CheckDetails" order="8" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.45826513" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="CMake" order="14" weight="0.3289689" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
     </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="agrega ejemplo de pruebas" />
@@ -248,29 +708,543 @@
     <MESSAGE value="mejora nombre pruebas y agrega comentario sobre nombre pruebas" />
     <MESSAGE value="mejora visual de las pruebas" />
     <MESSAGE value="arregla nombre de pruebas" />
-    <option name="LAST_COMMIT_MESSAGE" value="arregla nombre de pruebas" />
+    <MESSAGE value="agrega ejemplo producto punto &#10;agrega clion cmakelists" />
+    <MESSAGE value="agrega ejemplo conversion" />
+    <MESSAGE value="arregla error de conversion de tipo" />
+    <MESSAGE value="moví archivos a otra carpeta para empezar a dividir ejercicios por grupo" />
+    <MESSAGE value="renombra archivos main para permitir la creacion de más de un ejecutable" />
+    <MESSAGE value="simplifica testing en clion" />
+    <MESSAGE value="agrega ejemplo testing" />
+    <MESSAGE value="quita comentario y remueve ConfigVar" />
+    <MESSAGE value="agrega ejemplo min_unit_clion" />
+    <MESSAGE value="agrega conversio bin a dec con arreglos" />
+    <MESSAGE value="agrega ejemplos recursividad" />
+    <MESSAGE value="buscaminas" />
+    <MESSAGE value="busqueda" />
+    <MESSAGE value="agrega ejemplo busqueda con estructuras y punteros(intercambiar)" />
+    <MESSAGE value="add ejercicios grupo damarys" />
+    <option name="LAST_COMMIT_MESSAGE" value="add ejercicios grupo damarys" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/lab072/conv_bin_dec_arreglo/conv_bin_dec_con_arreglo.c</url>
+          <line>16</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/ejJC/main_ehJC.c</url>
+          <line>11</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/ejJC/miLib.h.c</url>
+          <line>11</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/lab071/suma_pares/funciones_recursivas.c</url>
+          <line>22</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/lab071/suma_pares/minunit_suma_pares.c</url>
+          <line>11</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/lab071/suma_pares/funciones_recursivas.c</url>
+          <line>25</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/lab071/suma_pares/funciones_recursivas.c</url>
+          <line>27</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/teoria/busqueda/main_busqueda.c</url>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/teoria/busqueda/main_busqueda.c</url>
+          <line>27</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/teoria/busqueda/main_busqueda.c</url>
+          <line>25</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/teoria/damarys/clasemiercoles.c</url>
+          <line>22</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>*(ess[2]*)mis_estudiantes</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>*(ess[2]*)ess</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>*(int[8]*)arr</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>b[j]</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>(int[8]*)arr</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>(int[8])arr</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>(char[4]*)a</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>(char[5])a</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>(char[3])a</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>&amp;aux</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>*v2</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>*v1</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>*x</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>&amp;*x</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>(char[4]*)a</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>(char[j]*)a</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>(char[2]*)a</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>(char[i]*)a</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Pycharm/c_testing_from_exe/plantilla_test_c.py" />
-    <entry file="file://$PROJECT_DIR$/suma2/main.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/c_testing_from_exe/plantilla_test_c.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+        <state relative-caret-position="164">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Teoria_Ejemplo1/Teoria_Ejemplo1.depend">
+    <entry file="file://$PROJECT_DIR$/EjercicioDesorganizados/minunit_misuperprograma/main.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EjercicioDesorganizados/minunit_misuperprograma/minunit.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EjercicioDesorganizados/minunit_misuperprograma/minunit_example.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="11" selection-end-line="86" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/isc205.cbp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-90">
+          <caret line="3" column="13" lean-forward="true" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/teoría/busqueda/main_busqueda.cpp" />
+    <entry file="file://$PROJECT_DIR$/lab071/conv_bin_dec/main_conv_bin_dec.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+          <folding>
+            <element signature="e#44#62#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab072/conv_bin_dec_arreglo/conv_bin_dec_con_arreglo.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+          <folding>
+            <element signature="e#45#82#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab071/prueba/min_unit_ej.c" />
+    <entry file="file://$PROJECT_DIR$/lab071/prueba/otromain.c" />
+    <entry file="file://$PROJECT_DIR$/lab071/prueba/main_proyecto.c" />
+    <entry file="file://$PROJECT_DIR$/lab072/conv_bin_dec_arreglo/conv_bin_dec_con_arreglo.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab072/conv_bin_dec_arreglo/main_conv_bin_dec_arreglo.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <folding>
+            <element signature="e#44#62#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab071/productopunto/productopunto.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab071/productopunto/main_productopunto.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+          <folding>
+            <element signature="e#44#62#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab071/suma_pares/main_suma_pares.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab071/suma_pares/funciones_recursivas.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab071/suma_pares/minunit_suma_pares.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#47#67#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab071/suma_pares/funciones_recursivas.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="34" column="16" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/c_testing_from_exe/plantilla_simplificada_clion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/c_testing_from_exe/abstract_test_case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="36" column="9" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proyecto_prueba/mis_librerias.h">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/suma2/mis_acciones.c">
+    <entry file="file://$PROJECT_DIR$/lab071/conv_bin_dec/test_conv_bin_dec.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proyecto_prueba/main_proyecto_prueba.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proyecto_prueba/minunit_proyecto_prueba.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proyecto_prueba/mis_librerias.c">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab071/conv_bin_dec/conversion.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+          <folding>
+            <element signature="e#45#68#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab071/conv_bin_dec/conversion.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ejJC/miLib.h.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab071/conv_bin_dec/minunit.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <folding>
+            <element signature="e#44#64#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ejJC/main_ehJC.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#45#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/teoria/examen/main_examen1.c" />
+    <entry file="file://$PROJECT_DIR$/ejJC/miLib.h.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="16" column="15" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/teoria/busqueda/main_busqueda.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="e#44#62#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ejJC/minunit_ehJC.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1290">
+          <caret line="43" column="14" selection-start-line="43" selection-start-column="14" selection-end-line="43" selection-end-column="14" />
+          <folding>
+            <element signature="e#46#66#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/teoria/busqueda/busqueda.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="17" column="45" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/teoria/tarea1/buscamina_main.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2160">
+          <caret line="72" column="1" selection-start-line="72" selection-start-column="1" selection-end-line="72" selection-end-column="1" />
+          <folding>
+            <element signature="e#45#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/teoria/tarea1/leveshtein.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/teoria/tarea1/leveshtein.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="6" column="42" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/teoria/tarea1/minunit_leveshtein.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1620">
+          <caret line="54" column="20" selection-start-line="54" selection-start-column="20" selection-end-line="54" selection-end-column="20" />
+          <folding>
+            <element signature="e#46#69#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab071/examen/P1.py" />
+    <entry file="file://$PROJECT_DIR$/teoria/busqueda/busqueda.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="64" column="5" lean-forward="true" selection-start-line="64" selection-start-column="5" selection-end-line="64" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab071/examen/P2.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab071/examen/P3.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/minunit.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab071/examen/P1.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/teoria/damarys/clasemiercoles.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#44#62#0" expanded="true" />
+            <element signature="e#122#154#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab072/examen/2P1.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+          <folding>
+            <element signature="e#44#62#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab072/examen/2P2.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab072/examen/2P3.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="37" column="13" lean-forward="true" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
