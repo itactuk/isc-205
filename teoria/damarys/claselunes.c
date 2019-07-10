@@ -39,15 +39,15 @@ int compara_carpetas(const void * p1, const void * p2){
     return strcmp(c1->nombre, c2->nombre);
 }
 
-CARPETA * busqueda(char * nombre, CARPETA carpeta_actual){
-    if (strcmp(nombre,carpeta_actual.nombre)){
-        return &carpeta_actual;
+CARPETA * busqueda(char * nombre, CARPETA * carpeta_actual){
+    if (strcmp(nombre,carpeta_actual->nombre)){
+        return carpeta_actual;
     }
-    if (carpeta_actual.n_carpetas==0){
+    if (carpeta_actual->n_carpetas==0){
         return NULL;
     }
-    for (int i = 0; i < carpeta_actual.n_carpetas; ++i) {
-        CARPETA * resultado_carpeta = busqueda(nombre, carpeta_actual.carpetas[i]);
+    for (int i = 0; i < carpeta_actual->n_carpetas; ++i) {
+        CARPETA * resultado_carpeta = busqueda(nombre, (carpeta_actual->carpetas)+i);
         if (resultado_carpeta!=NULL){
             return resultado_carpeta;
         }
