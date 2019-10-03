@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1570134801 source:c:\tmp\primosmain\milibreria.c
+	<math.h>
+	"miLibreria.h"
+
+1570134804 c:\tmp\primosmain\milibreria.h
+
