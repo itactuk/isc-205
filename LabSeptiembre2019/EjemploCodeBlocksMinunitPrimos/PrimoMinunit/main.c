@@ -25,11 +25,11 @@ MU_TEST(test_esprimoError) {
 }
 
 MU_TEST(test_PromedioVacio) {
-    mu_assert_double_eq(0.0, calc_promedio_numeros_primos(20,22));
+    mu_assert_double_eq(2, calc_promedio_numeros_primos(1,1));
 }
 
 MU_TEST(test_PromedioPequeno) {
-    mu_assert_double_eq(6.83333, calc_promedio_numeros_primos(2,13));
+    mu_assert_double_eq(6.5, calc_promedio_numeros_primos(2,5));
 }
 
 MU_TEST_SUITE(test_suite) {
