@@ -38,7 +38,7 @@ bombas=2;
 
 int generar_bombas(int matriz[90][90], int n, int m, int bomba){
     int aleatorio_i, aleatorio_j;
-    while (bomba==0){
+    while (bomba>0){
         aleatorio_i = rand() % n;
         aleatorio_j = rand() % m;
         if (matriz[aleatorio_i][aleatorio_j]!='b'){
