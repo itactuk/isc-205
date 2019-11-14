@@ -30,7 +30,7 @@ typedef struct estudiante
 } ESTUDIANTE;
 
 int existeEstudiante(ESTUDIANTE *,int n, char *mat);
-ESTUDIANTE * eliminarEstudiante(ESTUDIANTE *, int n, int ind);
+ESTUDIANTE * eliminarEstudiante(ESTUDIANTE *, int *n, int ind);
 ESTUDIANTE * agregarEstudiante(ESTUDIANTE *, int n, int ind);
 ESTUDIANTE * guardarEstudiantes(ESTUDIANTE *, int n, char * nombre_archivo);
 ESTUDIANTE * cargarEstudiantes(char * nombre_archivo);
